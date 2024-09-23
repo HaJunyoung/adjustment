@@ -1,6 +1,6 @@
 
 
-# 프로젝트 개요
+# 💚 프로젝트 개요
 2024/08/19 ~ 2024/09/14
 
 주목적 : 대량의 영상 시청기록에 대한 통계 및 정산 Batch 작업
@@ -11,7 +11,7 @@
 🧡 ERD
 ![image](https://github.com/user-attachments/assets/81df2ea5-b408-4fd7-b49b-c66d2289e185)
 
-# 기술 스택
+# 💚 기술 스택
 
 1. 스프링부트
 2. JPA
@@ -30,9 +30,10 @@
 15. Redis
 16. MySQL
 17. Amazon RDS
-# 트러블 슈팅
+    
+# 💚 트러블 슈팅
 
-# 구현 예정
+# 💚 구현 예정
 - CQRS 패턴 적용을 통한 Multi process 환경 구성
 - Multi Thread를 기반으로 한 Spring batch 형성
 - 서비스 운영을 위한 모니터링 서비스 구축
