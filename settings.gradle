@@ -1,1 +1,8 @@
 rootProject.name = 'adjustment'
+
+include 'eureka-server'
+include 'gateway-service'
+include 'common'
+include 'user-service'
+include 'video2-service'
+include 'add-service'
